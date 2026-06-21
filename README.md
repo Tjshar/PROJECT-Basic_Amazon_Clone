@@ -2,7 +2,7 @@
 A front-end Amazon homepage clone built with HTML and CSS.
 
 ## Live Demo
-[Click here to view](https://your-username.github.io/amazon-clone)
+[Click here to view](https://tjshar.github.io/PROJECT-Basic_Amazon_Clone/)
 
 ## Screenshots
 
