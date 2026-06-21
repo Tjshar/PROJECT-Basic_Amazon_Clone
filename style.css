@@ -33,7 +33,7 @@ body {
 }
 
 .logo {
-    background-image: url("/Images/amazon logo.png");
+    background-image: url("Images/amazon logo.png");
     height: 50px;
     width: 100%;
     background-size: cover;
@@ -116,7 +116,7 @@ body {
 }
 
 .flag {
-    background-image: url("/Images/flag.png");
+    background-image: url("Images/flag.png");
     height: 1.7rem;
     width: 1.7rem;
     background-size: contain;
@@ -196,7 +196,7 @@ span {
 
 /*      HERO SECTION      */
 .hero-section {
-    background-image: url("/Images/slideshow img1.jpg");
+    background-image: url("Images/slideshow img1.jpg");
     background-size: cover;
     background-position: center top; 
     min-height: 400px;      
@@ -378,7 +378,7 @@ span {
 }
 
 .logo2 {
-    background-image: url("/Images/logo2.png");
+    background-image: url("Images/logo2.png");
     background-size: cover;
     height: 50px;
     width: 100px;
